@@ -27,11 +27,22 @@ Write Semantic Dictionary to text file: <br/>
 <img src="https://i.imgur.com/dVJVZxP.png" height="80%" width="80%" alt="Creating Semantic Dictionary"/>
 <br />
 <br />
+Read Semantic Dictionary: <br/>
+<img src="https://i.imgur.com/BMpw9EF.png" height="80%" width="80%" alt="Reading Semantic Dictionary"/>
+<br />
+<br />
 Ask program to identify the most similar word out of words given:  <br/>
 <img src="https://i.imgur.com/C8OxcOi.png" height="80%" width="80%" alt="Program prediction most semantic similar word"/>
 <br />
 <br />
 
+ <h2>Application Flow</h2>
+ <img src="https://i.imgur.com/XVAp92n.png" height="80%" width="80%" alt="Flowchart describing application flow"/>
+<br />
+<br />
+ 
+ 
+ 
 <!--
  ```diff
 - text in red
