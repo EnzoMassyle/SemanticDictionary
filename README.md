@@ -1,51 +1,36 @@
-# SemanticDictionary
+# Semantic Dictionary
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project is meant to be an aid for the pomodoro technique which is a time management system that highlights working in short focused intervals, taking breaks in between. Users can perform given tasks with this application running in the background which will notify them when their work/break time is over and will prompt them to start the next cycle. Settings of application such as desired work and break time can be adjusted to user's desire.
+Project is an application whos purpose is to be able to identify the semantic similarity between words. Application is able to be efficiently trained on large text files (Full novels) to make accurate predictions on words that are semantically similar.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>Tkinter</b>
-
-<h2>Environments Used </h2>
-
-- <b>Mac OS</b>
+- <b>C++</b> 
+- <b>Fast Light Took Kit (FLTK)</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the application: <br/>
+<img src="https://i.imgur.com/dqSBbdA.png" height="80%" width="80%" alt="Home screen"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Process text file(s):  <br/>
+<img src="https://i.imgur.com/9gz58tL.png" height="80%" width="80%" alt="Processing The text from the Lord of the Rings"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Write Semantic Dictionary to text file: <br/>
+<img src="https://i.imgur.com/dVJVZxP.png" height="80%" width="80%" alt="Creating Semantic Dictionary"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ask program to identify the most similar word out of words given:  <br/>
+<img src="https://i.imgur.com/C8OxcOi.png" height="80%" width="80%" alt="Program prediction most semantic similar word"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
